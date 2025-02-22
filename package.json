@@ -4,7 +4,7 @@
   "description": "Proyecto de Web Server para curso de NodeJS",
   "license": "ISC",
   "author": "Antonio Milian",
-  "type": "commonjs",
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon src/app.js"
